@@ -26,3 +26,13 @@ number = int(input("Enter an integer: "))
 last_digit = number % 10
 print("The last digit of", number, "is:", last_digit)
 
+- [ ] Read the project documentation
+- [ ] Set up the development environment
+- [ ] Write the main algorithm
+- [ ] Implement unit tests
+- [ ] Review and refactor the code
+- [ ] Update the README file
+- [ ] Push changes to the repository
+- [ ] Create a pull request for review
+- [ ] Address feedback and make improvements
+- [ ] Merge the pull request
